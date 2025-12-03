@@ -29,7 +29,6 @@ const solve = async () => {
         }
     });
 
-    // return safeReports;
     return invalidIDSum;
 };
 
